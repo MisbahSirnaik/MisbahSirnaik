@@ -49,12 +49,15 @@ image add
 ## VIDEO OF OUR WORKING MODEL-
 
 Here is a short video of our working model- Alassist App 
-![](https://user-images.githubusercontent.com/66111230/87503431-d41d6b00-c681-11ea-8522-40e703cb4d01.gif)
+
+
+![](https://user-images.githubusercontent.com/66111230/89974885-f3f47e80-dc81-11ea-8ae2-2639488829c6.gif)
+
 
 
 # Team Mindsy
-Mindsy-Alassist
-Feb 2020
+Mindsy-Alassist-
+
 An application developed in android studio specially designed for helping Alzheimer patients with their day to day activities
 --"You are you and we won’t let you forget"--
 My team bagged first prize at the first round of the Smart India Hackathon organized by IEEE council of UMIT

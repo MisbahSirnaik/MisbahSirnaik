@@ -107,12 +107,11 @@ https://github.com/MisbahSirnaik/Python-Tkinter
 # FitTestBMI
 ## Android Application
 
-![alt text](https://user-images.githubusercontent.com/66111230/89975594-c4df0c80-dc83-11ea-9d42-0a2507fc4f49.jpg)
+![](https://user-images.githubusercontent.com/66111230/89976063-0de39080-dc85-11ea-8b61-dcadad6bc1cb.gif)
+
 
 # Key Features
 The key features of this project are as follows:
-
-![](https://user-images.githubusercontent.com/66111230/89975740-243d1c80-dc84-11ea-8dcf-2fd35a1e0519.gif)
 
 
 1. Login and Registration for authentication and verification
@@ -127,7 +126,7 @@ The key features of this project are as follows:
 # Link to the repository 
 
 
-https://github.com/MisbahSirnaik/Python-Tkinter
+
 
 
 

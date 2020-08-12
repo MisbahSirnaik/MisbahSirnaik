@@ -71,6 +71,32 @@ The key features of this project are as follows:
 4. Quotes for inspiration and motivation
 5. Daily Planner
 
+# Student Management System
+## Python Tkinter
+
+![alt text](https://user-images.githubusercontent.com/66111230/89975119-8eed5880-dc82-11ea-9c83-99ffba485029.jpg)
+
+
+# Key Features
+The key features of this project are as follows:
+A simple student management system implementing CRUD operations using Python 3.x related technologies using tkinter for GUI and cx_Oracle for Oracle Database CRUD Operations.
+
+-Student Management System
+
+
+![](https://user-images.githubusercontent.com/66111230/87503431-d41d6b00-c681-11ea-8522-40e703cb4d01.gif)
+1. Python 3.x
+2. Exemplary UI design
+3. Strong validation and testing
+4. Add details of student
+5. View added details
+6. Update details
+7. Delete details
+8. Visualization Dashboard using bar charts to view top 5 rankers
+9. Quote of the day section
+10. Calendar and Weather
+
+
 
 
 

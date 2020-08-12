@@ -26,7 +26,7 @@ https://www.linkedin.com/in/missie-974128157
 
 https://drive.google.com/file/d/1POZUL9e5sJRo0xwebE1cXEia5OsP10YQ/view?usp=sharing
 
-# Team Techy Warriors
+## Team Techy Warriors
 This repository contains all code files and data we used in the IBMHC 2020 project for the Sentiment Analysis of COVID-19 Tweets. 
 In this project, we utilized twitter data, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis using TextBlob and IBM Tone Analyzer, visualised the data in Tableau public and developed an android application for best user interaction.            
 
@@ -37,14 +37,14 @@ In this project, we utilized twitter data, leveraged NLP techniques to process t
 
 
 
-# Objective
+## Objective
 To visualize Sentiments of Indians after the extension of lockdown announcements based on tweets with the relevant #tags on twitter and build dashboards as a daily sentiment monitor product to present the results.
-# Purpose
+## Purpose
 The purpose of this project is as follows:
 1. To gain an overview of the wider public opinion behind certain topics such as lockdown guidelines, government rules, work from home, etc. 
 2. To use sentiment analysis as a means to gauge public opinion so that the concerned authority can be able to strategize and plan for the future.
 
-# Link to the repository 
+## Link to the repository 
 https://github.com/SmartPracticeschool/SBSPS-Challenge-1422-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
 
 
@@ -53,7 +53,7 @@ https://github.com/SmartPracticeschool/SBSPS-Challenge-1422-Sentiment-Analysis-o
 
 ![alt text](https://user-images.githubusercontent.com/66111230/89975119-8eed5880-dc82-11ea-9c83-99ffba485029.jpg)
 
-# Team Mindsy
+## Team Mindsy
 Mindsy-Alassist-
 
 An application developed in android studio specially designed for helping Alzheimer patients with their day to day activities
@@ -65,7 +65,7 @@ My team bagged first prize at the first round of the Smart India Hackathon organ
 https://drive.google.com/drive/u/0/folders/1f-oHcefLUr3zZ8y1wv7RBgcNRuNCQtOA
 
 
-# Key Features of the App
+## Key Features of the App
 The key features of this project are as follows:
 1. Personalized polaroid gallery
 2. Alarm for reminders
@@ -78,7 +78,7 @@ The key features of this project are as follows:
 
 ![alt text](https://user-images.githubusercontent.com/66111230/89975594-c4df0c80-dc83-11ea-9d42-0a2507fc4f49.jpg)
 
-# Key Features
+## Key Features
 The key features of this project are as follows:
 A simple student management system implementing CRUD operations using Python 3.x related technologies using tkinter for GUI and cx_Oracle for Oracle Database CRUD Operations.
 
@@ -98,7 +98,7 @@ A simple student management system implementing CRUD operations using Python 3.x
 9. Quote of the day section
 10. Calendar and Weather
 
-# Link to the repository 
+## Link to the repository 
 
 
 https://github.com/MisbahSirnaik/Python-Tkinter
@@ -110,7 +110,7 @@ https://github.com/MisbahSirnaik/Python-Tkinter
 ![](https://user-images.githubusercontent.com/66111230/89976063-0de39080-dc85-11ea-8b61-dcadad6bc1cb.gif)
 
 
-# Key Features
+## Key Features
 The key features of this project are as follows:
 
 
@@ -123,7 +123,8 @@ The key features of this project are as follows:
 7. Tips to GET FIT
 8. Rate Us section
 
-# Link to the repository 
+## Link to the repository 
+https://github.com/MisbahSirnaik/FitTestBMI
 
 
 

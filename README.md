@@ -45,6 +45,7 @@ The purpose of this project is as follows:
 2. To use sentiment analysis as a means to gauge public opinion so that the concerned authority can be able to strategize and plan for the future.
 
 # Link to the repository 
+https://github.com/SmartPracticeschool/SBSPS-Challenge-1422-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
 
 
 # Smart India Hackathon- IEEE UMIT

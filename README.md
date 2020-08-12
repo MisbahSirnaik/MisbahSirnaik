@@ -154,3 +154,7 @@ https://drive.google.com/drive/u/0/folders/1wQQdRPIbFSQVvMcLxwZXD0OpqZ5jbesh
 
 ![alt text](https://user-images.githubusercontent.com/66111230/89977300-6ec09800-dc88-11ea-8dd5-4174d92dcf87.jpg)
 ![alt text](https://user-images.githubusercontent.com/66111230/89977303-6ff1c500-dc88-11ea-9e3e-869761fb8bb1.jpg)
+
+## Let's take a glance at the working model
+
+![](https://user-images.githubusercontent.com/66111230/89977429-bba46e80-dc88-11ea-9dbb-74e97137dadb.gif)

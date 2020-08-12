@@ -149,4 +149,8 @@ A washing machine is basically a machine designed to wash or clean laundries suc
 https://drive.google.com/drive/u/0/folders/1wQQdRPIbFSQVvMcLxwZXD0OpqZ5jbesh
 
 
+## Automated Sanitizer Dispenser without using an Arduino
 
+
+![alt text](https://user-images.githubusercontent.com/66111230/89977300-6ec09800-dc88-11ea-8dd5-4174d92dcf87.jpg)
+![alt text](https://user-images.githubusercontent.com/66111230/89977303-6ff1c500-dc88-11ea-9e3e-869761fb8bb1.jpg)

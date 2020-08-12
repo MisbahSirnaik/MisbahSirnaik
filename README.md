@@ -74,15 +74,13 @@ The key features of this project are as follows:
 # Student Management System
 ## Python Tkinter
 
-![alt text](https://user-images.githubusercontent.com/66111230/89975119-8eed5880-dc82-11ea-9c83-99ffba485029.jpg)
-
+![alt text](https://user-images.githubusercontent.com/66111230/89975594-c4df0c80-dc83-11ea-9d42-0a2507fc4f49.jpg)
 
 # Key Features
 The key features of this project are as follows:
 A simple student management system implementing CRUD operations using Python 3.x related technologies using tkinter for GUI and cx_Oracle for Oracle Database CRUD Operations.
 
 -Student Management System
-
 
 ![](https://user-images.githubusercontent.com/66111230/87503431-d41d6b00-c681-11ea-8522-40e703cb4d01.gif)
 1. Python 3.x

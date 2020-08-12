@@ -131,6 +131,7 @@ https://github.com/MisbahSirnaik/FitTestBMI
 ## Foot Powered Venture 
 
 Foot-powered washing machine that uses zero electricity.
+![alt text](https://user-images.githubusercontent.com/66111230/89976439-1092b580-dc86-11ea-89c6-b465a8ff2763.jpg)
 
 ## Components
 Chain Sprokets
@@ -143,7 +144,9 @@ Supporting Frame
 ## Overview
 A washing machine is basically a machine designed to wash or clean laundries such as towels, clothing, and sheets. Generally, washing machines are powered by electrical energy. This washing machine project aims to design and fabricate a washing machine which uses human energy instead. Mechanical energy is transmitted to the clothes load by the rotation of the agitator or by the whirling action of the drum. In this pedal powered washing machine project, the rotation of the drum or agitator is caused by the rotation motion of the pedals. Pedal power involves transferring power from a human source by means of foot pedals and a crank system.
 
+## Gain More Insights Here-
 
+https://drive.google.com/drive/u/0/folders/1wQQdRPIbFSQVvMcLxwZXD0OpqZ5jbesh
 
 
 

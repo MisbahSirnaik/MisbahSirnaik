@@ -14,6 +14,9 @@ https://www.linkedin.com/in/missie-974128157
 4. Worked as an Intern at Reliance Industries Ltd
 5. Worked as an Intern at Trivia Softwares
 
+# Project Glimpses 
+
+
 # IBM Hack Challenge 2020
 ## Sentiment Analysis of COVID-19 Tweets-Visualization-Dashboard
 ![alt text](https://user-images.githubusercontent.com/66111230/86078930-d6da6680-baac-11ea-89d7-cdcc8e9bc7f7.jpg)
@@ -47,13 +50,6 @@ The purpose of this project is as follows:
 
 ![alt text](https://user-images.githubusercontent.com/66111230/89975119-8eed5880-dc82-11ea-9c83-99ffba485029.jpg)
 
-## VIDEO OF OUR WORKING MODEL-
-
-Here is a short video of our working model- Alassist App 
-https://drive.google.com/drive/u/0/folders/1f-oHcefLUr3zZ8y1wv7RBgcNRuNCQtOA
-
-
-
 # Team Mindsy
 Mindsy-Alassist-
 
@@ -61,7 +57,9 @@ An application developed in android studio specially designed for helping Alzhei
 --"You are you and we won’t let you forget"--
 My team bagged first prize at the first round of the Smart India Hackathon organized by IEEE council of UMIT
 
+## Gain More Insights Here-
 
+https://drive.google.com/drive/u/0/folders/1f-oHcefLUr3zZ8y1wv7RBgcNRuNCQtOA
 
 
 # Key Features of the App

@@ -44,6 +44,7 @@ The purpose of this project is as follows:
 1. To gain an overview of the wider public opinion behind certain topics such as lockdown guidelines, government rules, work from home, etc. 
 2. To use sentiment analysis as a means to gauge public opinion so that the concerned authority can be able to strategize and plan for the future.
 
+# Link to the repository 
 
 
 # Smart India Hackathon- IEEE UMIT
@@ -82,7 +83,9 @@ A simple student management system implementing CRUD operations using Python 3.x
 
 -Student Management System
 
-![](https://user-images.githubusercontent.com/66111230/87503431-d41d6b00-c681-11ea-8522-40e703cb4d01.gif)
+![](https://user-images.githubusercontent.com/66111230/89975740-243d1c80-dc84-11ea-8dcf-2fd35a1e0519.gif)
+
+
 1. Python 3.x
 2. Exemplary UI design
 3. Strong validation and testing
@@ -93,6 +96,8 @@ A simple student management system implementing CRUD operations using Python 3.x
 8. Visualization Dashboard using bar charts to view top 5 rankers
 9. Quote of the day section
 10. Calendar and Weather
+
+# Link to the repository 
 
 
 

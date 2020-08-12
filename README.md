@@ -44,14 +44,13 @@ The purpose of this project is as follows:
 
 # Smart India Hackathon- IEEE UMIT
 ## Alassist
-![alt text](https://user-images.githubusercontent.com/66111230/86078930-d6da6680-baac-11ea-89d7-cdcc8e9bc7f7.jpg)
-image add 
+
+![alt text](https://user-images.githubusercontent.com/66111230/89975119-8eed5880-dc82-11ea-9c83-99ffba485029.jpg)
+
 ## VIDEO OF OUR WORKING MODEL-
 
 Here is a short video of our working model- Alassist App 
-
-
-![](https://user-images.githubusercontent.com/66111230/89974885-f3f47e80-dc81-11ea-8ae2-2639488829c6.gif)
+https://drive.google.com/drive/u/0/folders/1f-oHcefLUr3zZ8y1wv7RBgcNRuNCQtOA
 
 
 
@@ -63,8 +62,6 @@ An application developed in android studio specially designed for helping Alzhei
 My team bagged first prize at the first round of the Smart India Hackathon organized by IEEE council of UMIT
 
 
-
-![](https://user-images.githubusercontent.com/66111230/87503431-d41d6b00-c681-11ea-8522-40e703cb4d01.gif)
 
 
 # Key Features of the App

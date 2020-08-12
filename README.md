@@ -16,7 +16,8 @@ https://www.linkedin.com/in/missie-974128157
 
 # Project Glimpses 
 
-![alt text](https://user-images.githubusercontent.com/66111230/89975357-2652ab80-dc83-11ea-98ab-2df92397bf2f.png)
+![alt text](https://user-images.githubusercontent.com/66111230/89976262-96623100-dc85-11ea-81b4-de2fbc150cff.jpg)
+
 
 # IBM Hack Challenge 2020
 ## Sentiment Analysis of COVID-19 Tweets-Visualization-Dashboard

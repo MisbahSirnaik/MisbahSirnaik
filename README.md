@@ -71,10 +71,6 @@ https://github.com/MisbahSirnaik/Python-Tkinter
 
 # FitTestBMI
 ## Android Application
-
-![](https://user-images.githubusercontent.com/66111230/89976063-0de39080-dc85-11ea-8b61-dcadad6bc1cb.gif)
-
-
 ## Key Features
 The key features of this project are as follows:
 

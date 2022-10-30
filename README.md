@@ -1,19 +1,3 @@
-# Misbah Aslam Sirnaik 
-
-I am pursuing a Bachelor Degree in Computer Science and Technology. 
-I am an ebullient, enthusiastic, hardworking and an all round effervescent person. I enjoy working with a team. Often, I start out in the background, observing and contributing; 
-however, before I even notice, I usually end up as a team leader. Having been a part of Reliance Industries.Ltd  as an Intern I gave my contribution on one of the 
-challenging areas of technology entitled - "Big Data And Its File Formats". 
-
-## View my LinkedIn Profile- 
-https://www.linkedin.com/in/missie-974128157
-
-1. IBMHC 2020 Participant 
-2. IBM CFC 2020 Participant
-3. Winner of first round of SIH held at UMIT
-4. Worked as an Intern at Reliance Industries Ltd
-5. Worked as an Intern at Trivia Softwares
-
 # Project Glimpses 
 
 ![alt text](https://user-images.githubusercontent.com/66111230/89976262-96623100-dc85-11ea-81b4-de2fbc150cff.jpg)
@@ -23,20 +7,11 @@ https://www.linkedin.com/in/missie-974128157
 ## Sentiment Analysis of COVID-19 Tweets-Visualization-Dashboard
 ![alt text](https://user-images.githubusercontent.com/66111230/86078930-d6da6680-baac-11ea-89d7-cdcc8e9bc7f7.jpg)
 
-## VIDEO OF OUR WORKING MODEL-
-
-https://drive.google.com/file/d/1POZUL9e5sJRo0xwebE1cXEia5OsP10YQ/view?usp=sharing
-
 ## Team Techy Warriors
 This repository contains all code files and data we used in the IBMHC 2020 project for the Sentiment Analysis of COVID-19 Tweets. 
 In this project, we utilized twitter data, leveraged NLP techniques to process the text data, analyzed the data by sentiment analysis using TextBlob and IBM Tone Analyzer, visualised the data in Tableau public and developed an android application for best user interaction.            
 
-
-
-
 ![](https://user-images.githubusercontent.com/66111230/87503431-d41d6b00-c681-11ea-8522-40e703cb4d01.gif)
-
-
 
 ## Objective
 To visualize Sentiments of Indians after the extension of lockdown announcements based on tweets with the relevant #tags on twitter and build dashboards as a daily sentiment monitor product to present the results.
@@ -60,11 +35,6 @@ Mindsy-Alassist-
 An application developed in android studio specially designed for helping Alzheimer patients with their day to day activities
 --"You are you and we won’t let you forget"--
 My team bagged first prize at the first round of the Smart India Hackathon organized by IEEE council of UMIT
-
-## Gain More Insights Here-
-
-https://drive.google.com/drive/u/0/folders/1f-oHcefLUr3zZ8y1wv7RBgcNRuNCQtOA
-
 
 ## Key Features of the App
 The key features of this project are as follows:
@@ -97,7 +67,6 @@ A simple student management system implementing CRUD operations using Python 3.x
 10. Calendar and Weather
 
 ## Link to the repository 
-
 
 https://github.com/MisbahSirnaik/Python-Tkinter
 
@@ -140,10 +109,6 @@ Foot-powered washing machine that uses zero electricity.
 7. Supporting Frame
 ## Overview
 A washing machine is basically a machine designed to wash or clean laundries such as towels, clothing, and sheets. Generally, washing machines are powered by electrical energy. This washing machine project aims to design and fabricate a washing machine which uses human energy instead. Mechanical energy is transmitted to the clothes load by the rotation of the agitator or by the whirling action of the drum. In this pedal powered washing machine project, the rotation of the drum or agitator is caused by the rotation motion of the pedals. Pedal power involves transferring power from a human source by means of foot pedals and a crank system.
-
-## Gain More Insights Here-
-
-https://drive.google.com/drive/u/0/folders/1wQQdRPIbFSQVvMcLxwZXD0OpqZ5jbesh
 
 
 ## Automated Sanitizer Dispenser without using an Arduino
